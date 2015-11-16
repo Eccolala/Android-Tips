@@ -429,6 +429,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
 
+
+###Theme
+
+1.[Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/)
 ### TouchEvent
 
 1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
@@ -507,13 +511,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ---
 
-## Z
 
-### Theme
-
-1.[Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/)
-1. [WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
----
 ## Others
 
 ### Code Style
