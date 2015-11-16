@@ -512,6 +512,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### Theme
 
 1.[Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/)
+1. [WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
 ---
 ## Others
 
